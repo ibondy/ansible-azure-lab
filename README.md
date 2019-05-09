@@ -252,7 +252,7 @@ Note the following values of your output, since we will use them later. In this 
 1. Subscription ID: **22222222-2222-2222-2222-222222222222**
 2. Tenant ID: **33333333-3333-3333-3333-333333333333**
 3. Application ID (also known as Client ID): **11111111-1111-1111-1111-111111111111**
-4. Password: **ThisIsTheAppPassword**
+4. Password: **ThisIsTheAppPassword1!**
 
 ## What we have learnt
 
