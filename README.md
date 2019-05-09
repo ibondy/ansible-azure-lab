@@ -247,7 +247,7 @@ See for more information: [https://docs.microsoft.com/en-us/azure/azure-resource
 }
 </pre>
 
-Note the following values of your output, since we will use them later. In this guide they are marked in different colors for easier identification:
+Note the following values of your output, **since we will use them later**. In this guide they are marked in different colors for easier identification:
 
 1. Subscription ID: **22222222-2222-2222-2222-222222222222**
 2. Tenant ID: **33333333-3333-3333-3333-333333333333**
