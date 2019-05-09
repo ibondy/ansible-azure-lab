@@ -180,7 +180,7 @@ See for more information: [https://docs.microsoft.com/en-us/azure/azure-resource
 **Step 1.** Create Active Directory application for Ansible:
 
 <pre lang="...">
-<b>az ad app create --password ThisIsTheAppPassword --display-name ansibleApp --homepage ansible.mydomain.com --identifier-uris ansible.mydomain.com</b>
+<b>az ad app create --password ThisIsTheAppPassword1! --display-name ansibleApp --homepage http://ansible.mydomain.com --identifier-uris ansible.mydomain.com</b>
 {
   "appId": "11111111-1111-1111-1111-111111111111",
   "appPermissions": null,
